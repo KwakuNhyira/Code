@@ -1,0 +1,1 @@
+Just learning python and maybe some other languages. That's just that. Projects will come later as I learn
